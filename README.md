@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Your GitHub Stats](https://vercel.app)
+
 <!--
 **nmtri-dev/nmtri-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
